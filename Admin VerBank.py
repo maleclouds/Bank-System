@@ -8,7 +8,7 @@ import time
 import random
 
 platform = platform.system()
-version = "1.0.2"
+version = "1.1.0"
 
 title_core = '''
 __     __        ____              _         _       _           _       
@@ -19,9 +19,8 @@ __     __        ____              _         _       _           _
                        VerBank Admin Control Panel                                                
 
 This is not a real bank :v, it just a bank system simulation 
-Developer : yrvrmth00
+Developer : yrvrmth00(Christian Emanuel WIjaya)
 Github    : github.com/yrvrmth00
-Lynk.id   : lynk.id/yourvermouth
 '''
 colorama.init()
 
