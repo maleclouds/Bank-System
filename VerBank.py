@@ -7,7 +7,7 @@ import time
 import random
 
 platform = platform.system()
-version = "1.0.2"
+version = "1.1.0"
 
 title_core = """
 oooooo     oooo                    oooooooooo.                        oooo       
@@ -19,9 +19,9 @@ oooooo     oooo                    oooooooooo.                        oooo
       `8'       `Y8bod8P' d888b    o888bood8P'  `Y888""8o o888o o888o o888o o888o
 
 This is not a real bank :v, it just a bank system simulation 
-Developer : yrvrmth00
+Developer : yrvrmth00(Christian Emanuel WIjaya)
 Github    : github.com/yrvrmth00
-Lynk.id   : lynk.id/yourvermouth
+
 """
 title_global = '''
 oooooo     oooo                    oooooooooo.                        oooo       
